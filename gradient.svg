@@ -1,5 +1,5 @@
 <svg 
-  viewBox="0 0 800 800"
+  viewBox="0 0 400 400"
   xmlns='http://www.w3.org/2000/svg'>
 
   <filter id='noiseFilter'>
@@ -11,7 +11,7 @@
   </filter>
 
   <rect
-    width='200px' 
-    height='200px' 
+    width='400px' 
+    height='400px' 
     filter='url(#noiseFilter)' />
 </svg>
