@@ -11,7 +11,7 @@
   </filter>
 
   <rect
-    width='800px' 
-    height='800px' 
+    width='200px' 
+    height='200px' 
     filter='url(#noiseFilter)' />
 </svg>
